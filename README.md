@@ -16,18 +16,7 @@ A Python-based attendance management system that combines AI-powered command int
 ## Technologies
 Python | Hugging Face | JSON | GitHub
 
-## Installation
 
-```bash
-git clone https://github.com/Akhilsingh161/akhil-s_attendance_management_ai_system-.git
-cd akhil-s_attendance_management_ai_system-
-pip install -r requirements.txt
-```
-
-Configure your `HF_TOKEN` and `HF_MODEL` in a local `.env` file, then run:
-
-```bash
-python app.py
 ```
 
 ## Objective
